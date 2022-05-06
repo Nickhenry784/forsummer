@@ -1,4 +1,4 @@
-package com.hnun;
+package com.maiyaklein.lookfoursssimulator;
 
 import com.facebook.react.ReactActivity;
 

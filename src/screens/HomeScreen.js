@@ -5,6 +5,7 @@ import {
   Text,
   Image,
   FlatList,
+  Alert,
 } from 'react-native';
 import React, {useEffect, useState} from 'react';
 import {useNavigation} from '@react-navigation/native';
@@ -34,6 +35,10 @@ function Home() {
   };
 
   const onClickItemButton = name => {
+    if (points.value === 0) {
+      Alert.alert('Please buy more turn');
+      return false;
+    }
     dispatch(decrement());
     navigation.navigate(name);
   };

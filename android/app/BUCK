@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.hnun",
+    package = "com.maiyaklein.lookfoursssimulator",
 )
 
 android_resource(
     name = "res",
-    package = "com.hnun",
+    package = "com.maiyaklein.lookfoursssimulator",
     res = "src/main/res",
 )
 

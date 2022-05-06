@@ -21,7 +21,6 @@
     "react-native": "0.66.3",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-iap": "^7.5.0",
-    "react-native-make": "^1.0.1",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.9.0",
     "react-redux": "^7.2.6",
@@ -31,6 +30,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
+    "@bam.tech/react-native-make": "^3.0.3",
     "@react-native-community/eslint-config": "^2.0.0",
     "babel-jest": "^26.6.3",
     "eslint": "^7.32.0",
@@ -41,6 +41,7 @@
     "eslint-plugin-react-hooks": "^4.5.0",
     "jest": "^26.6.3",
     "metro-react-native-babel-preset": "^0.66.2",
+    "react-native-make": "^1.0.1",
     "react-test-renderer": "17.0.2"
   },
   "jest": {
