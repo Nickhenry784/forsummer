@@ -1,0 +1,27 @@
+/* eslint-disable global-require */
+export const images = {
+  home: {
+    background_fall: require('./images/background_fall.png'),
+    background_spring: require('./images/background_spring.png'),
+    background_summer: require('./images/background_summer.png'),
+    background_winter: require('./images/background_winter.png'),
+    logo: require('./images/logo.png'),
+    buy: require('./images/buy.png'),
+    spring: require('./images/spring.png'),
+    fall: require('./images/fall.png'),
+    summer: require('./images/summer.png'),
+    winter: require('./images/winter.png'),
+    fall_item1: require('./images/fall_element/l1.png'),
+    fall_item2: require('./images/fall_element/l2.png'),
+    fall_item3: require('./images/fall_element/l3.png'),
+    fall_item4: require('./images/fall_element/l4.png'),
+    spring_item1: require('./images/spring_element/b1.png'),
+    spring_item2: require('./images/spring_element/b2.png'),
+    spring_item3: require('./images/spring_element/b3.png'),
+    spring_item4: require('./images/spring_element/b4.png'),
+    summer_item1: require('./images/summer_elements/p0.png'),
+    summer_item2: require('./images/summer_elements/p1.png'),
+    summer_item3: require('./images/summer_elements/p2.png'),
+    winter_item1: require('./images/winter_elements/bongtuyet.png'),
+  },
+};

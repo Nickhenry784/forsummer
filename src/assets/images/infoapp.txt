@@ -1,0 +1,18 @@
+Name app: Look four Seasons simulator app
+Apkname: com.lookfoursssimulator
+
+Có 4 nút, click vào nút nào thì ra background mùa đó, và các element của các mùa chuyển động
+Xuân: các con bươm bay bay
+Hạ: cái phao với cô gái di chuyển 
+Thu: các lá rụng rơi lả tả
+Đông: clone ra 1 mớ bong tuyết rụng xuông
+
+1 lần click bóng đèn thì tốn 1 turn (hình trái đất)
+
+turn : 50,100,200,300
+Price: 0.99,1.99,4.99,9.99
+
+Sub:1000,3000
+Price: 10$/week, 20$/tháng
+
+
